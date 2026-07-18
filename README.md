@@ -170,6 +170,9 @@ Provide management with data-driven insights for operational improvements.
 
 
 ---
+<img width="559" height="339" alt="image" src="https://github.com/user-attachments/assets/3ac1ca98-1f46-4559-8f12-46d2bab228ff" />
+
+---
 
 # 📈 Key Insights
 
