@@ -20,11 +20,6 @@ The dashboard was built using the following tools and technologies:
 - 🔄 **Power Query** – Data cleaning and transformation
 - 🧠 **DAX (Data Analysis Expressions)** – KPI calculations and dynamic measures
 - 🗂 **Data Modeling** – Building relationships and optimizing the data model
-- 🐍 **Python (Pandas, NumPy)** – Data preprocessing and exploratory analysis
-- 🗃 **SQL (PostgreSQL / MySQL / SQL Server)** – Data querying and validation
-- 📁 **CSV Dataset** – Source data
-- 📄 **Microsoft Word** – Documentation
-- 🎤 **Gamma** – Presentation creation
 
 ---
 
@@ -173,62 +168,6 @@ Understand department workload for better allocation of medical resources.
 
 Provide management with data-driven insights for operational improvements.
 
----
-
-# 📸 Dashboard Preview
-
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-```
-Images/
-├── Dashboard_Page1.png
-├── Dashboard_Page2.png
-```
-
----
-
-# 📁 Project Structure
-
-```
-Hospital-ER-Dashboard/
-│
-├── Dataset/
-│   └── Hospital ER_Data.csv
-│
-├── Python/
-│   └── Hospital_EDA.ipynb
-│
-├── SQL/
-│   └── ER_Queries.sql
-│
-├── PowerBI/
-│   └── Dashboard.pbix
-│
-├── Report/
-│   └── Hospital_ER_Report.docx
-│
-├── Presentation/
-│   └── Hospital_ER_Presentation.pdf
-│
-├── Images/
-│   ├── Dashboard1.png
-│   ├── Dashboard2.png
-│   └── Dashboard3.png
-│
-└── README.md
-```
-
----
-
-# 🚀 How to Use
-
-1. Clone this repository.
-2. Open the **Power BI (.pbix)** file.
-3. Refresh the data if required.
-4. Use filters and slicers to explore the dashboard.
-5. Review insights for operational analysis.
 
 ---
 
